@@ -1,0 +1,6 @@
+[submodule "apps/mono-repo-1"]
+	path = apps/mono-repo-1
+	url = https://github.com/martinejaw/mono-repo-1
+[submodule "packages/mono-repo-shared"]
+	path = packages/mono-repo-shared
+	url = https://github.com/martinejaw/mono-repo-shared
